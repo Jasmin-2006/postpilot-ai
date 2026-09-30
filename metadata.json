@@ -1,0 +1,6 @@
+{
+  "name": "PostPilot",
+  "description": "Universal multi-platform social media composer, content calendar, cross-channel scheduler, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
